@@ -1,3 +1,13 @@
+
+
+
+
+
+
+![Banner](https://github.com/amike68/amike68/assets/147053561/b9f553c3-8c8e-4b16-b52e-3e6a81c86d85)
+
+
+
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
 <b>Hi, My name is Esther Amike. I am a data and project management professional.<b>
 
