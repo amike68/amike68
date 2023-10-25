@@ -23,7 +23,7 @@
 <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/e260c407-0449-4919-a8a7-d5f491bcf7ca" height="85"/> </a> 
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a> 
-<a href="#" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Excel_2013-2019_logo.svg/2560px-Excel_logo.svg.png" alt="Excel" height="60"/> </a> 
+
 
 
 
@@ -44,6 +44,8 @@
 <p align="center"> 
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="![image](https://github.com/amike68/amike68/assets/147053561/7c0c4022-bba9-47bf-bcaf-938d6bcd3d31)
+
 
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a> 
 
