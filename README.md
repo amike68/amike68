@@ -19,11 +19,12 @@
 
 <p align="center"> 
 
-<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/47d61395-144d-46aa-ae82-58b259cd9b70" alt="Python" height="60"/> </a> 
 
 <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/e260c407-0449-4919-a8a7-d5f491bcf7ca" height="85"/> </a> 
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a> 
+
+<a href="#" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Excel_2013-2019_logo.svg/2560px-Excel_logo.svg.png" alt="Excel" height="60"/> </a>
 
 <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/8bdbd13a-ffc3-46f3-b5dc-fff24e769f29" alt="Excel" height="60"/> </a> 
 
