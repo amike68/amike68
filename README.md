@@ -24,15 +24,7 @@
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a> 
 
-<a href="#" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Excel_2013-2019_logo.svg/2560px-Excel_logo.svg.png" alt="Excel" height="60"/> </a>
 
-<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/8bdbd13a-ffc3-46f3-b5dc-fff24e769f29" alt="Excel" height="60"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/3e9e0304-d3a8-4c0c-82cd-7ddab5b41647" alt="Azure" height="60"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/5b2f85e6-3aa3-46a4-8ddc-5532c6164aa3" alt="R" height="60"/> </a> 
-
- 
 
 </p> 
 
