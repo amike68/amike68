@@ -43,11 +43,11 @@
 
 <p align="center"> 
 
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a> 
+
 <a href="#" target="_blank"> <img src="![image](https://github.com/amike68/amike68/assets/147053561/7c0c4022-bba9-47bf-bcaf-938d6bcd3d31)
 
 
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a> 
+
 
 
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a> 
