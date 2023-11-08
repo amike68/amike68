@@ -42,8 +42,8 @@ I have also experience using these data visualization tools.
 - 📝 Documentation: Efficient documentation and collaboration are facilitated through tools like `Confluence,Microsoft Office suite,G-Suite,Click-up`. 
 
 <div align="left">
-  <img src="https://github.com/amike68/amike68/assets/147053561/b57c0ce1-ab08-4b6e-9bfa-317fd0f8b6ed" alt="Slack" width="80" height="65">
-  <img src="https://github.com/amike68/amike68/assets/147053561/4aac8e8d-27a4-4e84-a023-7fee7043f954" alt="Basecamp" width="80" height="65">
+  <img src="https://github.com/amike68/amike68/assets/147053561/27d491b7-576c-4dbf-9dd0-ac3ad680e78c" alt="Slack" width="80" height="65">
+  <img src="https://github.com/amike68/amike68/assets/147053561/47a597d5-039c-4ad9-aae8-2d1537e0bfc6" alt="Basecamp" width="80" height="65">
 </div>
  Communication: I streamline team communication and collaboration with tools like `Slack` and `Basecamp. 
 
