@@ -24,12 +24,11 @@ I have also experience using these data visualization tools.
   <div align="left">
   
 
-
-## 🚀 Project Management
+ 🚀 Project Management
 <div align="right">
-  <img src="https://example.com/pmcom-logo.png" alt="PM.com" width="60" height="60">
-  <img src="https://example.com/monday-logo.png" alt="Monday.com" width="60" height="60">
-  <img src="https://example.com/jira-logo.png" alt="Jira" width="60" height="60">
+  <img src="https://github.com/amike68/amike68/assets/147053561/5ef660ec-a21b-4219-b753-5681cf354cf1" alt="PM.com" width="60" height="60">
+  <img src="https://github.com/amike68/amike68/assets/147053561/7eaf847f-60e2-474a-a04d-e334ca7655e4" alt="Monday.com" width="60" height="60">
+  <img src="https:/github.com/amike68/amike68/assets/147053561/4da1c852-28b4-4bbb-8426-493d2243a6a1" alt="Jira" width="60" height="60">
 </div>
 
 - 📆 Project Planning: I'm experienced with project management tools like `PM.com`, `Monday.com`, and `Jira` to plan and execute projects efficiently. 🚀📆
