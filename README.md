@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about managing projects and harness
   <p align="right">
 <a href="#" target="_blank"> <img src="https://github.com//amike68/amike68/assets/147053561/8b418099-5e14-4f8b-b0ee-9c6fd1c1ff27" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
-    <p align="middle">
+<p align="middle">
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com//amike68/amike68/assets/147053561/28c0c3bf-76b5-46fc-adbd-7248bd072384" alt="Excel" height="60"/> </a>
   <p align="left">
