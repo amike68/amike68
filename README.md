@@ -20,20 +20,12 @@ Welcome to my GitHub profile! I'm passionate about managing projects and harness
 </p>
 
 
-<div align="center">
-  <img src="![image](https://github.com/amike68/amike68/assets/147053561/32b477b1-8e09-4381-85a0-87d5db55a4c2)
-/pandas-logo.png" alt="pandas" width="60" height="60">
-  <img src=![image](https://github.com/amike68/amike68/assets/147053561/a7fba0be-29c1-4d13-b6fd-2f844b480228)
- width="60" height="60">
-</div>
-
-- 📊 Data Analysis: I leverage the power of `pandas` and `matplotlib` for robust data analysis and visualization. 😃🤓
-
 <div align="left">
-  <img src="https://example.com/seaborn-logo.png" alt="seaborn" width="60" height="60">
-</div>
-
-- 📈 Data Visualization: Beautiful data visualizations are created using `seaborn` to communicate insights effectively. 😎📈
+  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+  
+<div align="right">
+  <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/8bdbd13a-ffc3-46f3-b5dc-fff24e769f29" alt="Excel" height="60"/> </a>
+ 
 
 ## 🚀 Project Management
 <div align="right">
