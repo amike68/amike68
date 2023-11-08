@@ -15,19 +15,17 @@ Welcome to my GitHub profile! I'm passionate about managing projects and harness
 <b>I have also experience using these data visualization tools.<b>
 
 <p align="left">
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> <
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a> 
   <p align="centre">
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>     
 <a href="#" target="_blank"> <img src="https://github.com//amike68/amike68/assets/147053561/8b418099-5e14-4f8b-b0ee-9c6fd1c1ff27" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
-</p> <div align="right">    <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
-  <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/amike68/assets/147053561/93823245-be06-475c-81f1-16188505084a" alt="Excel" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com//amike68/amike68/assets/147053561/28c0c3bf-76b5-46fc-adbd-7248bd072384)" alt="Excel" height="60"/> </a>
   
-<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/5b2f85e6-3aa3-46a4-8ddc-5532c6164aa3" alt="R" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/amike68/amike68/assets/147053561/66f3d83f-c5f5-43d0-be21-79055f2150d2" alt="R" height="60"/> </a>
 
 </p>
-
-
 
 
 ## 🚀 Project Management
