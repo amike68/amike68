@@ -28,13 +28,13 @@ I have also experience using these data visualization tools.
 <div align="right">
   <img src="https://github.com/amike68/amike68/assets/147053561/5ef660ec-a21b-4219-b753-5681cf354cf1" alt="PM.com" width="80" height="65">
   <img src="https://github.com/amike68/amike68/assets/147053561/7eaf847f-60e2-474a-a04d-e334ca7655e4" alt="Monday.com" width="80" height="65">
-  <img src="https://github.com/amike68/amike68/assets/147053561/abe0e59a-5980-474c-9a44-769682ccda46" alt="Jira" width="80" height="65">
+  <img src="https://github.com/amike68/amike68/assets/147053561/abe0e59a-5980-474c-9a44-769682ccda46" alt="Jira" width="85" height="90">
 </div>
  Project Planning: I'm experienced with project management tools like `PM.com`, `Monday.com`, and `Jira` to plan and execute projects efficiently.
 
 <div align="middle">
-  <img src="https://github.com/amike68/amike68/assets/147053561/19fe9a59-79c5-4140-a2d5-c0786a3389d3" alt="Confluence" width="80" height="65">
-    <img src="https://github.com/amike68/amike68/assets/147053561/c2eebd27-2e82-41a8-a27a-b86df2c4e17d" alt="Microsoft Office" width="80" height="65">
+  <img src="https://github.com/amike68/amike68/assets/147053561/19fe9a59-79c5-4140-a2d5-c0786a3389d3" alt="Confluence" width="85" height="90">
+    <img src="https://github.com/amike68/amike68/assets/147053561/c2eebd27-2e82-41a8-a27a-b86df2c4e17d" alt="Microsoft Office" width="80" height="90">
     <img src="https://github.com/amike68/amike68/assets/147053561/450ac532-8312-42a8-88f1-c9fc29f04475" alt="G-suite" width="80" height="65">
     <img src="https://github.com/amike68/amike68/assets/147053561/4d18f4c0-975e-41ef-934e-4703b2589744" alt="Click-up" width="80" height="65">
 </div>
