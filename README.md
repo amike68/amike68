@@ -9,6 +9,17 @@
 Welcome to my GitHub profile! I'm passionate about managing projects and harnessing data for insightful decision-making. Explore my repositories to insights related to project management, data analysis, and more.
 
 ## 📈 Data Analysis & Visualization
+
+<b>I have also experience using these data visualization tools.<b>
+
+<p align="center">
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
+</p>
+
+
 <div align="center">
   <img src="![image](https://github.com/amike68/amike68/assets/147053561/32b477b1-8e09-4381-85a0-87d5db55a4c2)
 /pandas-logo.png" alt="pandas" width="60" height="60">
