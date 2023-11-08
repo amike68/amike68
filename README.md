@@ -32,41 +32,26 @@ I have also experience using these data visualization tools.
 </div>
  Project Planning: I'm experienced with project management tools like `PM.com`, `Monday.com`, and `Jira` to plan and execute projects efficiently.
 
-<div align="center">
+<div align="middle">
   <img src="https://github.com/amike68/amike68/assets/147053561/19fe9a59-79c5-4140-a2d5-c0786a3389d3" alt="Confluence" width="80" height="65">
     <img src="https://github.com/amike68/amike68/assets/147053561/c2eebd27-2e82-41a8-a27a-b86df2c4e17d" alt="Microsoft Office" width="80" height="65">
     <img src="https://github.com/amike68/amike68/assets/147053561/450ac532-8312-42a8-88f1-c9fc29f04475" alt="G-suite" width="80" height="65">
     <img src="https://github.com/amike68/amike68/assets/147053561/4d18f4c0-975e-41ef-934e-4703b2589744" alt="Click-up" width="80" height="65">
 </div>
 
-- 📝 Documentation: Efficient documentation and collaboration are facilitated through tools like `Confluence,Microsoft Office suite,G-Suite,Click-up`. 📄📎
+- 📝 Documentation: Efficient documentation and collaboration are facilitated through tools like `Confluence,Microsoft Office suite,G-Suite,Click-up`. 
 
 <div align="left">
-  <img src="https://example.com/slack-logo.png" alt="Slack" width="80" height="65">
-  <img src="https://example.com/basecamp-logo.png" alt="Basecamp" width="80" height="65">
+  <img src="https://github.com/amike68/amike68/assets/147053561/b57c0ce1-ab08-4b6e-9bfa-317fd0f8b6ed" alt="Slack" width="80" height="65">
+  <img src="https://github.com/amike68/amike68/assets/147053561/4aac8e8d-27a4-4e84-a023-7fee7043f954" alt="Basecamp" width="80" height="65">
 </div>
+ Communication: I streamline team communication and collaboration with tools like `Slack` and `Basecamp. 
 
-- 💬 Communication: I streamline team communication and collaboration with tools like `Slack` and `Basecamp. 🗨️🏢
 
-## 📊 Business Intelligence
-<div align="right">
-  <img src="https://example.com/powerbi-logo.png" alt="Power BI" width="60" height="60">
-  <img src="https://example.com/tableau-logo.png" alt="Tableau" width="60" height="60">
-</div>
-
-- 📈 BI Tools: Proficient in `Power BI` and `Tableau` for creating interactive and insightful reports and dashboards. 📈📊
-
-## 📫 Let's Connect!
-Feel free to reach out for collaborations or discussions. You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile-link) for professional connections. 📧🤝
-
-## 📚 Learning and Growing
+ Learning and Growing
 I'm always eager to learn and grow in my areas of expertise. Check out my repositories, contributions, and projects to explore more about my journey.
 
 
-
-
- <img src="![image](https://github.com/amike68/amike68/assets/147053561/dca0cd7d-68c3-4f40-a8e8-05f13d172a05)
-" alt="pandas" width="60" height="60">
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div> 
 
