@@ -4,7 +4,7 @@
 
 ![welcome banner](https://github.com/amike68/amike68/assets/147053561/f2c4473e-cc6f-4b60-bdc3-ed588cde8d57)
 
-# 👨‍💼 Project Management Professional & Data Analyst 📊
+👨‍💼 Project Management Professional & Data Analyst 
 
 Welcome to my GitHub profile! I'm passionate about managing projects and harnessing data for insightful decision-making. Explore my repositories to insights related to project management, data analysis, and more.
 
@@ -16,11 +16,9 @@ I have also experience using these data visualization tools.
 
 <div align="left">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> <
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a> 
-  
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>   
 <a href="#" target="_blank"> <img src="https://github.com/amike68/amike68/assets/147053561/66f3d83f-c5f5-43d0-be21-79055f2150d2" alt="R" height="60"/> </a>
-<div align="right">
-<a href="#" target="_blank"> <img src="https://github.com//amike68/amike68/assets/147053561/8b418099-5e14-4f8b-b0ee-9c6fd1c1ff27" alt="Tableau" height="60"/> </a>
+<div align="right"> <a href="#" target="_blank"> <img src="https://github.com//amike68/amike68/assets/147053561/8b418099-5e14-4f8b-b0ee-9c6fd1c1ff27" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 <div align="middle">
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
