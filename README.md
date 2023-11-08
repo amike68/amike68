@@ -27,17 +27,20 @@ I have also experience using these data visualization tools.
  🚀 Project Management
 <div align="right">
   <img src="https://github.com/amike68/amike68/assets/147053561/5ef660ec-a21b-4219-b753-5681cf354cf1" alt="PM.com" width="60" height="60">
-  <img src="https://github.com/amike68/amike68/assets/147053561/7eaf847f-60e2-474a-a04d-e334ca7655e4" alt="Monday.com" width="60" height="60">
-  <img src="https:/github.com/amike68/amike68/assets/147053561/4da1c852-28b4-4bbb-8426-493d2243a6a1" alt="Jira" width="60" height="60">
+  <img src="https://github.com/amike68/amike68/assets/147053561/7eaf847f-60e2-474a-a04d-e334ca7655e4" alt="Monday.com" width="60" height="85">
+  <img src="https://github.com/amike68/amike68/assets/147053561/4da1c852-28b4-4bbb-8426-493d2243a6a1" alt="Jira" width="60" height="60">
 </div>
-
-- 📆 Project Planning: I'm experienced with project management tools like `PM.com`, `Monday.com`, and `Jira` to plan and execute projects efficiently. 🚀📆
+ Project Planning: I'm experienced with project management tools like `PM.com`, `Monday.com`, and `Jira` to plan and execute projects efficiently.
 
 <div align="center">
-  <img src="https://example.com/confluence-logo.png" alt="Confluence" width="60" height="60">
+  <img src="https://github.com/amike68/amike68/assets/147053561/5b464d07-7636-471d-8878-3d6e10959345" alt="Confluence" width="60" height="60">
+    <img src="https://github.com/amike68/amike68/assets/147053561/c2eebd27-2e82-41a8-a27a-b86df2c4e17d" alt="Microsoft Office" width="60" height="60">
+    <img src="https://github.com/amike68/amike68/assets/147053561/450ac532-8312-42a8-88f1-c9fc29f04475)" alt="G-suite" width="60" height="60">
+    <img src="https://github.com/amike68/amike68/assets/147053561/83c04598-0fce-47c3-8707-3562baef1ad6)
+" alt="Click-up" width="60" height="60">
 </div>
 
-- 📝 Documentation: Efficient documentation and collaboration are facilitated through tools like `Confluence`. 📄📎
+- 📝 Documentation: Efficient documentation and collaboration are facilitated through tools like `Confluence,Microsoft Office suite,G-Suite,Click-up`. 📄📎
 
 <div align="left">
   <img src="https://example.com/slack-logo.png" alt="Slack" width="60" height="60">
