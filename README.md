@@ -67,7 +67,7 @@ Feel free to reach out for collaborations or discussions. You can find me on [Li
 ## 📚 Learning and Growing
 I'm always eager to learn and grow in my areas of expertise. Check out my repositories, contributions, and projects to explore more about my journey.
 
-Thanks for visiting! 🚀
+
 
 
  <img src="![image](https://github.com/amike68/amike68/assets/147053561/dca0cd7d-68c3-4f40-a8e8-05f13d172a05)
