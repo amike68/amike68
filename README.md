@@ -4,9 +4,11 @@ Welcome to my GitHub profile! I'm passionate about managing projects and harness
 
 ## 📈 Data Analysis & Visualization
 - 📊 Data Analysis: I leverage the power of `pandas` and `matplotlib` for robust data analysis and visualization.
+  
+<p align="center">
   ![pandas](https://![image](https://github.com/amike68/amike68/assets/147053561/c42ee4da-1d72-40e5-a28e-a500fe14e6ce)
-/pandas.png) ![matplotlib](https://![image](https://github.com/amike68/amike68/assets/147053561/afa78ec9-3ba4-4dc4-b62a-6bed96596635)
-/matplotlib.png)
+ ![matplotlib](https://![image](https://github.com/amike68/amike68/assets/147053561/afa78ec9-3ba4-4dc4-b62a-6bed96596635)alt="Matplotlib" height="50"/> </a>
+
 - 📈 Data Visualization: Beautiful data visualizations are created using `seaborn` to communicate insights effectively.
   ![seaborn](https://example.com/seaborn.png)
 
