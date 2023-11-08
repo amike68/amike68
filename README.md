@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about managing projects and harness
 
   
 <p align="center">  
-
+<a href="#" target="_blank"> <img src="C:\Users\Esther Amike\OneDrive\Pictures\pandas.png" alt="Pandas" height="60"/> </a>
 
  <img src="![image](https://github.com/amike68/amike68/assets/147053561/dca0cd7d-68c3-4f40-a8e8-05f13d172a05)
 " alt="pandas" width="60" height="60">
