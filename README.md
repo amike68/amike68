@@ -33,11 +33,10 @@ I have also experience using these data visualization tools.
  Project Planning: I'm experienced with project management tools like `PM.com`, `Monday.com`, and `Jira` to plan and execute projects efficiently.
 
 <div align="center">
-  <img src="https://github.com/amike68/amike68/assets/147053561/5b464d07-7636-471d-8878-3d6e10959345" alt="Confluence" width="60" height="60">
+  <img src="https://github.com/amike68/amike68/assets/147053561/19fe9a59-79c5-4140-a2d5-c0786a3389d3" alt="Confluence" width="60" height="60">
     <img src="https://github.com/amike68/amike68/assets/147053561/c2eebd27-2e82-41a8-a27a-b86df2c4e17d" alt="Microsoft Office" width="60" height="60">
-    <img src="https://github.com/amike68/amike68/assets/147053561/450ac532-8312-42a8-88f1-c9fc29f04475)" alt="G-suite" width="60" height="60">
-    <img src="https://github.com/amike68/amike68/assets/147053561/83c04598-0fce-47c3-8707-3562baef1ad6)
-" alt="Click-up" width="60" height="60">
+    <img src="https://github.com/amike68/amike68/assets/147053561/450ac532-8312-42a8-88f1-c9fc29f04475" alt="G-suite" width="60" height="60">
+    <img src="https://github.com/amike68/amike68/assets/147053561/4d18f4c0-975e-41ef-934e-4703b2589744" alt="Click-up" width="60" height="60">
 </div>
 
 - 📝 Documentation: Efficient documentation and collaboration are facilitated through tools like `Confluence,Microsoft Office suite,G-Suite,Click-up`. 📄📎
