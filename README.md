@@ -18,10 +18,7 @@ Welcome to my GitHub profile! I'm passionate about managing projects and harness
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>    
 <a href="#" target="_blank"> <img src="https://github.com//amike68/amike68/assets/147053561/8b418099-5e14-4f8b-b0ee-9c6fd1c1ff27" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
-</p>
-
-<div align="right">
-  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+</p> <div align="right">    <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
   <a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/8bdbd13a-ffc3-46f3-b5dc-fff24e769f29" alt="Excel" height="60"/> </a>
  
 
