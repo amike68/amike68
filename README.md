@@ -12,12 +12,19 @@ Welcome to my GitHub profile! I'm passionate about managing projects and harness
 
 <b>I have also experience using these data visualization tools.<b>
 
-<p align="center">
+<p align="left">
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
+  <p align="centre">
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="60"/> </a>
+      <p align="centre">
+<a href="#" target="_blank"> <img src="https://github.com//amike68/amike68/assets/147053561/8b418099-5e14-4f8b-b0ee-9c6fd1c1ff27" alt="Tableau" height="60"/> </a>
+          <p align="right">
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
+
+![image](https://github.com/amike68/amike68/assets/147053561/8b418099-5e14-4f8b-b0ee-9c6fd1c1ff27)
+
+
 
 
 <div align="left">
