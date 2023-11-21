@@ -2,6 +2,10 @@
 
 
 
+https://github.com/amike68/amike68/assets/147053561/e8443592-604a-4fd0-a658-b276d9e71454
+
+
+
 ![welcome banner](https://github.com/amike68/amike68/assets/147053561/f2c4473e-cc6f-4b60-bdc3-ed588cde8d57)
 
 👨‍💼 Project Management Professional & Data Analyst 
